@@ -25,7 +25,7 @@ Where:
 - \( N \): Number of masks
 - \( M_i \): Binary mask
 - \( I \): Input image
-- \( f(I \odot M_i)): Model output
+- \( f()): Model output
 - \( p \): Probability of pixel visibility
 
 ## Implementation Highlights
@@ -54,3 +54,4 @@ RISE is a powerful tool for explaining black-box models but is computationally i
 ## References
 
 - Petsiuk et al., 2018. "RISE: Randomized Input Sampling for Explanation of Black-box Models."
+
